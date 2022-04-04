@@ -440,6 +440,9 @@ nav {
     align-items: center;
     justify-content: center;
 }
+.button-next:hover {
+    background-color: #e5e5e5;
+}
 
 .button-next-button {
     width: 10px;
