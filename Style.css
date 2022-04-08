@@ -618,6 +618,14 @@ nav {
   box-sizing: border-box;
 }
 
+.LBC-green:hover {
+  background-color: #9cc038;
+}
+
+.LBC-green:hover .corner {
+  visibility: hidden;
+}
+
 .LBC-green-person {
   width: 100%;
   height: 80px;
